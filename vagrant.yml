@@ -1,0 +1,4 @@
+site:
+  ip: 192.168.33.10
+  sitename: scotchbox
+  mysqlpassword: root
