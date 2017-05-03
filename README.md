@@ -10,8 +10,22 @@ Official website: https://box.scotch.io/
 This repository contains some bashscripts to customize some features:
 
 - PHP 7
-PhpMyAdmin
-Ruby 2.4
-Rails 5.0.1
+- PhpMyAdmin
+- Ruby 2.4
+- Rails 5.0.1
+
+To run ScotchBoxIO you need to access to the ScotchBox Project and write following commands in Terminal:
+
+vagrant up
+
+To start your server
+
+vagrant provision
+
+To run to customize your features
+
+vagrant ssh
+
+To access a your virtual machine from the command line interface
 
 
