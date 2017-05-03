@@ -7,7 +7,7 @@ Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack featur
 
 Official website: https://box.scotch.io/
 
-This repository contains some bashscripts to customize some features:
+This repository contains some bashscripts to customize some features. Those bashscripts are called in **Vagrantfile**:
 
 - PHP 7
 - PhpMyAdmin
