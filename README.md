@@ -16,15 +16,15 @@ This repository contains some bashscripts to customize some features:
 
 To run ScotchBoxIO you need to access to the ScotchBox Project and write following commands in Terminal:
 
-vagrant up
+**vagrant up**
 
 To start your server
 
-vagrant provision
+**vagrant provision**
 
 To run to customize your features
 
-vagrant ssh
+**vagrant ssh**
 
 To access a your virtual machine from the command line interface
 
